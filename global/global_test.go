@@ -3,7 +3,7 @@ package global_test
 import (
 	"net/http"
 
-	_ "github.com/motemen/go-loghttp/global"
+	_ "github.com/64mb/go-loghttp/global"
 )
 
 var client = &http.Client{}

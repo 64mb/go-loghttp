@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/motemen/go-nuts/roundtime"
+	"github.com/64mb/go-nuts/roundtime"
 )
 
 // Transport implements http.RoundTripper. When set as Transport of http.Client, it executes HTTP requests with logging.

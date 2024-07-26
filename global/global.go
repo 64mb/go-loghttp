@@ -4,7 +4,7 @@ package global
 import (
 	"net/http"
 
-	"github.com/motemen/go-loghttp"
+	"github.com/64mb/go-loghttp"
 )
 
 func init() {
